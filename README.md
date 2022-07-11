@@ -4,7 +4,7 @@
 - 🎓 Já sou formado sim! Me formei em fevereiro de 2022 no curso de Processos Gerenciais...
 - 🌱 Estou cursando ADS e por agora estou estudando as linguagens C++ e C...
                                                
-                                       🧠𝕺 𝖒𝖎𝖓𝖎𝖒𝖆𝖑𝖎𝖘𝖒𝖔 𝖊 𝖆 𝖑ó𝖌𝖎𝖈𝖆 é 𝖔𝖖𝖚𝖊 𝖉𝖔𝖒𝖎𝖓𝖆 𝖓𝖔 𝕭𝖆𝖈𝖐-𝕰𝖓𝖉!!🧠
+                                       🧠𝕺 𝖒𝖎𝖓𝖎𝖒𝖆𝖑𝖎𝖘𝖒𝖔 𝖊 𝖆 𝖑ó𝖌𝖎𝖈𝖆 é 𝖔 𝖖𝖚𝖊 𝖉𝖔𝖒𝖎𝖓𝖆 𝖓𝖔 𝕭𝖆𝖈𝖐-𝕰𝖓𝖉!!🧠
 ##
 𝕷𝖎𝖓𝖌𝖚𝖆𝖌𝖊𝖓𝖘
 <div style="display: inline_block"><br>
