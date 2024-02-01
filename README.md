@@ -1,4 +1,4 @@
-# 🧑🏼‍💻 Sobre Mim
+# 🧑 Sobre Mim
 
 Olá! 👋 Sou um desenvolvedor especializado em Webscraping e Automações, atualmente estou no estado de São Paulo, Brasil.
 
