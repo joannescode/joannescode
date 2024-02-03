@@ -1,25 +1,30 @@
-# 🧑 Sobre Mim
+# 🤖 Sobre Mim
 
-Olá! 👋 Sou um desenvolvedor especializado em Webscraping e Automações, atualmente estou no estado de São Paulo, Brasil.
+Olá! 👋🏻 Meu nome é Lucas, mas pode me chamar de Joannes. Estou no interior de São Paulo, Brasil.
+
+## 🎲 Hobbies
+1. Comprometido com a musculação para manter mente e corpo em sintonia.
+2. Apaixonado por jogos, embora às vezes eu seja daqueles que começam e não terminam.
+3. Adoro animes, exceto os de gêneros mais peculiares.
 
 ## 🎒 Formação Acadêmica
 
-- Tecnólogo em Processos Gerenciais
-- Tecnólogo em Análise e Desenvolvimento de Sistemas
+- Tecnólogo em Processos Gerenciais.
+- Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 ## 💻 Experiência Profissional
 
-Atualmente, faço parte da equipe da Wellbe, onde aplico minhas habilidades de desenvolvimento para criar soluções eficientes e automatizadas para extração de dados de saúde.
+Iniciei minha trajetória profissional na área de controle da qualidade, primeiro como jovem aprendiz e, posteriormente, assumindo a posição de assistente administrativo. Durante esse período, mergulhei em um ambiente onde conciliava o trabalho prático com o estudo de teorias e práticas relacionadas à administração, incluindo temas como ISO 9001, auditorias e lean manufacturing, entre outros.
 
-## 🐍 Tecnologias e Linguagens
+Atualmente, ocupo a posição de desenvolvedor RPA no segmento de healthtech, desempenhando minhas atividades na startup Wellbe. Minhas responsabilidades incluem a execução de tarefas especializadas, como web scraping de dados e automação de processos, contribuindo assim para a eficiência operacional da empresa.
 
-- **Linguagem:** Python
-- **Bibliotecas Principais para Webscraping:**
-  - Selenium
-  - Beautiful Soup
-  - Requests
-  - Scrapy
+## 🐍 Linguagens e Bibliotecas
 
-Fique à vontade para explorar meus projetos e contribuições! 🚀
+**Linguagem:** 
+1. Python.
 
-Se quiser entrar em contato, sinta-se à vontade para me encontrar nas redes sociais ou enviar uma mensagem aqui no GitHub. Estou ansioso para conectar e colaborar com a comunidade de desenvolvedores! 🌐✨
+**Bibliotecas Principais para Web Scraping:**
+1. Selenium.
+2. Beautiful Soup.
+3. Requests.
+4. Scrapy.
