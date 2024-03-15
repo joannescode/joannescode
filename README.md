@@ -2,15 +2,16 @@
 
 Olá! 👋🏻 Meu nome é Lucas, mas pode me chamar de Joannes. Estou no interior de São Paulo, Brasil.
 
-## 🎲 Hobbies
-1. Comprometido com a musculação para manter mente e corpo em sintonia.
-2. Apaixonado por jogos, embora às vezes eu seja daqueles que começam e não terminam.
-3. Adoro animes, exceto os de gêneros mais peculiares.
+## 🐍 Linguagens e Bibliotecas
 
-## 🎒 Formação Acadêmica
+**Linguagem:** 
+1. Python.
 
-- Tecnólogo em Processos Gerenciais.
-- Tecnólogo em Análise e Desenvolvimento de Sistemas.
+**Bibliotecas Principais para Web Scraping:**
+1. Selenium;
+2. Beautiful Soup;
+3. Requests;
+4. Scrapy.
 
 ## 💻 Experiência Profissional
 
@@ -18,13 +19,12 @@ Iniciei minha trajetória profissional na área de controle da qualidade, primei
 
 Atualmente, ocupo a posição de desenvolvedor RPA no segmento de healthtech, desempenhando minhas atividades na startup Wellbe. Minhas responsabilidades incluem a execução de tarefas especializadas, como web scraping de dados e automação de processos, contribuindo assim para a eficiência operacional da empresa.
 
-## 🐍 Linguagens e Bibliotecas
+## 🎒 Formação Acadêmica
 
-**Linguagem:** 
-1. Python.
+- Tecnólogo em Processos Gerenciais.
+- Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-**Bibliotecas Principais para Web Scraping:**
-1. Selenium.
-2. Beautiful Soup.
-3. Requests.
-4. Scrapy.
+## 🎲 Hobbies
+1. Comprometido com a musculação para manter mente e corpo em sintonia.
+2. Apaixonado por jogos, embora às vezes eu seja daqueles que começam e não terminam.
+3. Adoro animes, exceto os de gêneros mais peculiares.
