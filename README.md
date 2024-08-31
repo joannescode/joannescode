@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey, call me Joannes, I'm an RPA developer at the moment and I live in Brazil, in the interior of São Paulo. I'm studying to be a full stack developer.</p>
+<p align="left">Hey, call me Joannes, I'm an RPA developer at the moment and I live in Brazil, in the countryside of São Paulo. I'm studying to be a full stack developer.</p>
 
 ###
 
