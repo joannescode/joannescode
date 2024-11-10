@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me 👨‍💻</h2>
 
 ###
 
@@ -17,7 +17,7 @@
   
 ###
 
-<h2 align="left">My Social Medias</h2>
+<h2 align="left">Contact me 📥</h2>
 
 ###
 
