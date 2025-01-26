@@ -31,8 +31,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
