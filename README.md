@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas (Joannes) 👋
 
-Meu nome é Lucas, mas meus colegas me chamam de Joannes. Tenho 24 anos, venho do interior de São Paulo e sou apaixonado por tecnologia, inovação e desafios. Aqui no GitHub, você vai encontrar um pouco da minha jornada como desenvolvedor e empreendedor.
+Meu nome é Lucas, mas meus colegas me chamam de Joannes. Faça parte da geração Z (nasci em 2000), sou do interior de São Paulo e sou apaixonado por tecnologia, inovação e desafios. Aqui no GitHub, você vai encontrar um pouco da minha jornada como desenvolvedor e empreendedor.
 
 ## 🚀 Sobre Mim
 
