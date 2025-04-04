@@ -20,4 +20,4 @@ Meu nome é Lucas, mas meus colegas me chamam de Joannes. Faça parte da geraç�
 
 
 
-Fique à vontade para explorar meus repositórios e me contatar se quiser trocar ideias colaborar ou apenas bater um papo sobre tecnologia e startups!
+Fique à vontade para explorar meus repositórios e me contatar se quiser trocar ideias, colaborar ou apenas bater um papo sobre tecnologia e startups! Também estou disponível para freelas. 💻
