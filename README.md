@@ -4,7 +4,7 @@ Meu nome é Lucas, mas meus colegas me chamam de Joannes. Faça parte da geraç�
 
 ## 🚀 Sobre Mim
 
-- 🎓 **Formação**: Sou formado em **Processos Gerenciais** e **Análise e Desenvolvimento de Sistemas**, o que me deu uma base sólida em gestão e tecnologia.
+- 🎓 **Formação**: Sou formado em **Processos Gerenciais** e **Análise e Desenvolvimento de Sistemas**, o que me deu uma base sólida em gestão e tecnologia. E agora estou realizando uma pós-graduação em Arquitetura de Software, Ciência de Dados e Cybersecurity​ através da PUC-Campinas.
 - 💼 **Experiência**: Desde 2023, trabalho como desenvolvedor Python em uma **healthtech**, onde utilizo minhas habilidades para coletar e gerenciar dados de saúde.
 - 🛠️ **Tecnologias**: Uso **Python** com foco em **webscraping** e **crawlers**, além de outras bibliotecas para gestão de dados.
 - 🏋️ **Hobby**: Fora do código, você me encontra na **academia**, onde busco equilíbrio entre mente e corpo.
