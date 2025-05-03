@@ -8,8 +8,7 @@
 
 ## 🛠️ Habilidades
 - Scraping Engineer: Python, Git, Github, SQL,  Jupyter Notebook, Selenium, Requests, BeautifulSoup, Playwright, Pandas, JSON...
-- Full Stack Development: HTML, CSS, JavaScript, PHP, SQL...
-
+  
 ---
 
 ## 🚀 Carreira
