@@ -1,23 +1,28 @@
-# Olá, eu sou Lucas (Joannes) 👋
+# 👋 Olá, eu sou Lucas (Joannes)
 
-Meu nome é Lucas, mas meus colegas me chamam de Joannes. Faça parte da geração Z (nasci em 2000), sou do interior de São Paulo e sou apaixonado por tecnologia, inovação e desafios. Aqui no GitHub, você vai encontrar um pouco da minha jornada como desenvolvedor e empreendedor.
+**💻 Desenvolvedor Python & Full Stack**
+> 
+> Desenvolvedor Python com 2 anos de experiência prática, atuando em projetos de coleta de dados via web scraping, automações e requisições. Sou motivado pela constante evolução e aprendizado, buscando sempre entregar soluções alinhadas às necessidades do negócio e às melhores práticas de desenvolvimento.
+
+---
 
 ## 🚀 Sobre Mim
 
-- 🎓 **Formação**: Sou formado em **Processos Gerenciais** e **Análise e Desenvolvimento de Sistemas**, o que me deu uma base sólida em gestão e tecnologia. E agora estou realizando uma pós-graduação em Arquitetura de Software, Ciência de Dados e Cybersecurity​ através da PUC-Campinas.
-- 💼 **Experiência**: Desde 2023, trabalho como desenvolvedor Python em uma **healthtech**, onde utilizo minhas habilidades para coletar e gerenciar dados de saúde.
-- 🛠️ **Tecnologias**: Uso **Python** com foco em **webscraping** e **crawlers**, além de outras bibliotecas para gestão de dados.
-- 🏋️ **Hobby**: Fora do código, você me encontra na **academia**, onde busco equilíbrio entre mente e corpo.
-- 🌍 **Metas**: Estou estudando **inglês** para trabalhar no exterior e também busco me tornar um desenvolvedor **fullstack**.
-- 🚀 **Desafio**: Inspirado no empreendedor Levelsio, estou em uma missão de **fundar 6 startups em um ano**. Acompanhe meus projetos aqui!
-- 🤝 **Voluntariado**: Já fiz parte do **Rotaract**, onde contribuí com ações voluntárias para a comunidade.
+- **Formação:** Graduado em Processos Gerenciais, Análise e Desenvolvimento de Sistemas, Pós-graduação em Arquitetura de Software.
+- **Atuação:** Desenvolvedor Python na Wellbe, entregando soluções para velocidade e escala em coleta de dados e automação de processos.
 
-## 📫 Como me Encontrar
+---
 
-- [LinkedIn](https://www.linkedin.com/in/ljoannes) 
-- [Reddit](https://www.reddit.com/user/sharkbot_17/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-- [Outlook](mailto:joannesribeiro_@outlook.com)
+## 🛠️ Stack Principal
+- Scraping Engineer: Python, Git, Github, SQL,  Jupyter Notebook, Selenium, Requests, BeautifulSoup, Playwright, Pandas, JSON...
+- Full Stack Development: HTML, CSS, JavaScript, PHP, SQL...
+---
 
+## 🤝 Voluntariado & Projetos
 
+- **Rotaract Club Botucatu-SP:** 9 meses participando de projetos sociais e liderança juvenil.
+- **Startup Weekend, Edição Energy SP (2023):** 🥈 2º lugar com solução de monitoramento inteligente de gás.
 
-Fique à vontade para explorar meus repositórios e me contatar se quiser trocar ideias, colaborar ou apenas bater um papo sobre tecnologia e startups! Também estou disponível para freelas. 💻
+---
+
+![Coding Animation](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYzMDU2NDEsIm5iZiI6MTc0NjMwNTM0MSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTAzVDIwNDkwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJmMjNjMWU5YzE3YTg1NDllOGM2MmFiNDVlZGU5MzFmZTg0Y2RmNzc5MjUyZGEyOGYyYmVmYmIxYjYwMDVmYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ITmLbVufhhedTHox-mzrTFtQTSrvhVS-dmWj8RtbKZs)
