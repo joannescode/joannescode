@@ -25,7 +25,7 @@
 
 ## 🤝 Participações
 
-- **Rotaract Club Botucatu-SP:** 9 como membro do club, auxiliando em projetos sociais para ajuda de pessoas carentes.
+- **Rotaract Club Botucatu-SP:** 9 meses como membro do club, auxiliando em projetos sociais para ajuda a pessoas carentes.
 - **Startup Weekend, Edição Energy SP (2023):** 🥈 2º lugar com a startup de monitoramento do uso de gás de cozinha.
 
 ---
