@@ -6,22 +6,27 @@
 
 ---
 
-## 🚀 Sobre Mim
-
-- **Formação:** Graduado em Processos Gerenciais, Análise e Desenvolvimento de Sistemas, Pós-graduação em Arquitetura de Software.
-- **Atuação:** Desenvolvedor Python na Wellbe, entregando soluções para velocidade e escala em coleta de dados e automação de processos.
-
----
-
-## 🛠️ Stack Principal
+## 🛠️ Habilidades
 - Scraping Engineer: Python, Git, Github, SQL,  Jupyter Notebook, Selenium, Requests, BeautifulSoup, Playwright, Pandas, JSON...
 - Full Stack Development: HTML, CSS, JavaScript, PHP, SQL...
+
 ---
 
-## 🤝 Voluntariado & Projetos
+## 🚀 Carreira
+- Wellbe: Desenvolvedor Python, entregando soluções para velocidade e escala em coleta de dados e automação de processos.
 
-- **Rotaract Club Botucatu-SP:** 9 meses participando de projetos sociais e liderança juvenil.
-- **Startup Weekend, Edição Energy SP (2023):** 🥈 2º lugar com solução de monitoramento inteligente de gás.
+---
+
+## 🎓 Certificações
+
+- **Formações:** Formado em Processos Gerenciais, Análise e Desenvolvimento de Sistemas, e pós-graduando em Arquitetura de Software.
+
+---
+
+## 🤝 Participações
+
+- **Rotaract Club Botucatu-SP:** 9 como membro do club, auxiliando em projetos sociais para ajuda de pessoas carentes.
+- **Startup Weekend, Edição Energy SP (2023):** 🥈 2º lugar com a startup de monitoramento do uso de gás de cozinha.
 
 ---
 
