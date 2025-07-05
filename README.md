@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Lucas (Joannes)
 
-**💻 Desenvolvedor Python & Full Stack**
+**💻 Desenvolvedor Python**
 > 
 > Desenvolvedor Python com 2 anos de experiência prática, atuando em projetos de coleta de dados via web scraping, automações e requisições. Sou motivado pela constante evolução e aprendizado, buscando sempre entregar soluções alinhadas às necessidades do negócio e às melhores práticas de desenvolvimento.
 
