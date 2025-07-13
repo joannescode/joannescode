@@ -5,7 +5,7 @@
     </td>
     <td>
       <h1>Lucas (Joannes) - Dev. Python 🐍</h1>
-      <h3><i>Coleta e Análise de Dados - Automação de Processos</i></h3>
+      <h4><i>"Automatize o que é repetitivo. Organize o que é caótico. Aprimore o que já é eficiente."🚀</i></h4>
     </td>
   </tr>
 </table>
@@ -37,7 +37,7 @@ Sou um desenvolvedor Python com foco em **coleta de dados, automações e integr
 - ⚡ **Startup Weekend - Energy SP (2023)**  
   🥈 **2º lugar** com solução para monitoramento inteligente do uso de gás de cozinha.
 
----
+&nbsp;
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -64,16 +64,3 @@ Sou um desenvolvedor Python com foco em **coleta de dados, automações e integr
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joannescode&theme=github_dark" alt="Resumo do perfil"/>
 </p>
-
----
-
-## 📬 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ljoannes/)
-- 📧 [Outlook](mailto:joannesribeiro_@outlook.com)
-- 👾 [Dio](https://www.dio.me/users/joannesribeiro_)
-
----
-
-> _"Automatize o que é repetitivo. Organize o que é caótico. Aprimore o que já é eficiente."_ 🚀
-
