@@ -5,7 +5,7 @@
     </td>
     <td>
       <h1>Lucas (Joannes) - Dev. Python 🐍</h1>
-      <h3><i>Scraping Engineer - Análise de Dados - Automação de Processos</i></h3>
+      <h3><i>Coleta e Análise de Dados - Automação de Processos</i></h3>
     </td>
   </tr>
 </table>
