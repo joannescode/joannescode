@@ -1,18 +1,6 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://i.gifer.com/3wMg.gif" width="200" alt="Coding Animation">
-    </td>
-    <td>
-      <h1>Lucas (Joannes) - Dev. Python 🐍</h1>
-      <h4><i>"Automatize o que é repetitivo. Organize o que é caótico. Aprimore o que já é eficiente."🚀</i></h4>
-    </td>
-  </tr>
-</table>
-
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor Python com foco em **coleta de dados, automações e integrações com APIs**. Tenho mais de **2 anos de experiência prática**, trabalhando com tecnologias voltadas à eficiência e escalabilidade. Busco sempre soluções elegantes, eficientes e alinhadas às melhores práticas do desenvolvimento moderno.
+Atuo como desenvolvedor Python com foco em **coleta de dados, automações e integrações com APIs**. Tenho mais de **2 anos de experiência prática**, trabalhando com **tecnologias voltadas à eficiência e escalabilidade**. Busco sempre soluções elegantes, eficientes e alinhadas às melhores práticas do desenvolvimento moderno.
 
 📍 Atualmente atuando na área de **automação de processos e scraping massivo de dados**.
 
@@ -39,28 +27,23 @@ Sou um desenvolvedor Python com foco em **coleta de dados, automações e integr
 
 &nbsp;
 
-## 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2B2E3A?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Requests-20232A?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-6600CC?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-</p>
-
-
 ## 📈 Estatísticas & Atividades
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joannescode&show_icons=true&theme=github_dark" alt="Estatísticas de Lucas"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joannescode&theme=github-dark" alt="Contribuições"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joannescode&theme=github_dark" alt="Resumo do perfil"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joannescode&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas"/>
 </p>
 
+## 📬 Contato
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joannescode&theme=github_dark" alt="Resumo do perfil"/>
+  <a href="mailto:joannesribeiro_@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ljoannes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://docs.google.com/document/d/1BitoYPmWfUj5VcffNdS4EuRnoBqDlS0Hp_Ofem8B0wg/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-555555?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Currículo"/>
+  </a>
 </p>
