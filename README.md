@@ -31,7 +31,6 @@ Atuo como desenvolvedor Python com foco em **coleta de dados, automações e int
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joannescode&theme=github_dark" alt="Resumo do perfil"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joannescode&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas"/>
 </p>
 
 ## 📬 Contato
