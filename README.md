@@ -6,13 +6,6 @@ Através deste primeiro trabalho até minha saída da empresa em 2021, busquei a
 Dando um salto para 2022, realizei minha transição de carreira próximo do final de ano, onde já havia iniciado o Tecnólogo em Análise e Desenvolvimento de Sistemas e começado como estagiário em uma startup (Wellbe), onde pude aplicar todo o conhecimento que obtive em minha primeira graduação e trabalho, mas desta vez aplicando novos conhecimentos para fazer a coleta e gestão de dados de saúde e tendo contato próximo com corretoras. 
 Atualmente, finalizado meu segundo Tecnólogo e agora estou pós-graduando, atuo como desenvolvedor Python dentro da área de Produto, buscando me especializar no desenvolvimento de aplicações em nuvem com o objetivo de entregar facilitações através da automação e ganho de escala para a empresa e como serviço ao cliente final .
 
-## 💼 Experiência Profissional
-
-- **🧠 Wellbe**
-  - (Tecnologia) Estagiário em suporte de dados, área operacional de extração e gerenciamento de dados saúde.
-  - (Tecnologia) Dev. Python, responsável de construir ferramentas para apoio na extração e gerenciamento dos dados.
-  - (Produto) Dev. Python, desenvolvimento de novos serviços para corretores de saúde.
-
 ## 📚 Formação Acadêmica & Certificações
 
 - 🎓 **Graduado em Processos Gerenciais**  
@@ -23,10 +16,9 @@ Atualmente, finalizado meu segundo Tecnólogo e agora estou pós-graduando, atuo
 ## 🏆 Participações & Conquistas
 
 - 🤝 **Rotaract Club Botucatu-SP**  
-  Membro ativo por 9 meses, contribuindo em projetos sociais voltados ao auxílio de comunidades carentes.
-
-- ⚡ **Startup Weekend - Energy SP (2023)**  
-  🥈 **2º lugar** com solução para monitoramento inteligente do uso de gás de cozinha.
+  - Membro ativo por 9 meses, contribuindo em projetos sociais voltados ao auxílio de comunidades carentes.
+- 🥈 **Startup Weekend - Energy SP (2023)**  
+  - 2º lugar com solução para monitoramento inteligente do uso de gás de cozinha.
 
 &nbsp;
 
