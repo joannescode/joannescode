@@ -9,9 +9,9 @@ Atualmente, finalizado meu segundo Tecnólogo e agora estou pós-graduando, atuo
 ## 💼 Experiência Profissional
 
 - **🧠 Wellbe**
-  - Estagiário em suporte de dados, área operacional de extração e gerenciamento de dados saúde.
-  - Dev. Python, responsável de construir ferramentas para apoio na extração e gerenciamento dos dados dentro da área de Tecnologia.
-  - Dev. Python, desenvolvimento de novos serviços para corretores de saúde dentro da área de Produto.
+  - (Tecnologia) Estagiário em suporte de dados, área operacional de extração e gerenciamento de dados saúde.
+  - (Tecnologia) Dev. Python, responsável de construir ferramentas para apoio na extração e gerenciamento dos dados.
+  - (Produto) Dev. Python, desenvolvimento de novos serviços para corretores de saúde.
 
 ## 📚 Formação Acadêmica & Certificações
 
