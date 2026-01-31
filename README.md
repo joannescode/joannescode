@@ -1,14 +1,17 @@
 ## 🚀 Sobre mim
 
-Atuo como desenvolvedor Python com foco em **coleta de dados, automações e integrações com APIs**. Tenho mais de **2 anos de experiência prática**, trabalhando com **tecnologias voltadas à eficiência e escalabilidade**. Busco sempre soluções elegantes, eficientes e alinhadas às melhores práticas do desenvolvimento moderno.
+Atuo no mercado de trabalho desde 2018, iniciando como jovem aprendiz em uma multinacional (CAIO Induscar) na área administrativa dentro do setor de Controle/Auditoria de Qualidade.
+Através deste primeiro trabalho até minha saída da empresa em 2021, busquei adquirir conhecimentos sobre o processo de produção, bem como as estratégias e metodologias utilizadas dentro do Lean Manufacturing e ISO. Também obtive conhecimento e prática em trabalhos administrativos, com ferramentas Office, Totvs e outros. Após minha efetivação na área de Auditoria, obtive a responsabilidade de orientar e treinar outros jovens, o que me permitiu aplicar algumas habilidades, como comunicação, gestão e liderança. Entorno deste período (2020 a 2022), me graduei em Processos Gerenciais, sendo meu primeiro Tecnólogo.
 
-📍 Atualmente atuando na área de **automação de processos e scraping massivo de dados**.
-
+Dando um salto para 2022, realizei minha transição de carreira próximo do final de ano, onde já havia iniciado o Tecnólogo em Análise e Desenvolvimento de Sistemas e começado como estagiário em uma startup (Wellbe), onde pude aplicar todo o conhecimento que obtive em minha primeira graduação e trabalho, mas desta vez aplicando novos conhecimentos para fazer a coleta e gestão de dados de saúde e tendo contato próximo com corretoras. 
+Atualmente, finalizado meu segundo Tecnólogo e agora estou pós-graduando, atuo como desenvolvedor Python dentro da área de Produto, buscando me especializar no desenvolvimento de aplicações em nuvem com o objetivo de entregar facilitações através da automação e ganho de escala para a empresa e como serviço ao cliente final .
 
 ## 💼 Experiência Profissional
 
-- **🧠 Wellbe**  
-  Atuando como Desenvolvedor Python, focado em **criação e melhoria de processos**, **coleta e gerenciamento de dados em massa** para geração de informações através de Business Intelligence.
+- **🧠 Wellbe**
+  - Estagiário em suporte de dados, área operacional de extração e gerenciamento de dados saúde.
+  - Dev. Python, responsável de construir ferramentas para apoio na extração e gerenciamento dos dados dentro da área de Tecnologia.
+  - Dev. Python, desenvolvimento de novos serviços para corretores de saúde dentro da área de Produto.
 
 ## 📚 Formação Acadêmica & Certificações
 
