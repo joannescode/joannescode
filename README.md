@@ -6,14 +6,14 @@ Atuo como desenvolvedor Python com foco em **coleta de dados, automações e int
 
 - **🧠 Wellbe**  
     - (Tecnologia) Estagiário em suporte de dados, área operacional de extração e gerenciamento de dados saúde.
-    - (Tecnologia) Dev. Python, responsável de construir ferramentas para apoio na extração e gerenciamento dos dados.
+    - (Tecnologia) Dev. Python, responsável de construir ferramentas para apoio na extração e gerenciamento dos dados de saúde.
     - (Produto) Dev. Python, desenvolvimento de novos serviços para corretores de saúde.
 
 ## 📚 Formação Acadêmica & Certificações
 
 - 🎓 **Graduado em Processos Gerenciais**  
 - 🎓 **Graduado em Análise e Desenvolvimento de Sistemas**  
-- 📘 **Pós-graduando em Arquitetura de Software** *(em andamento)*
+- 📘 **Pós-graduando em Arquitetura de Software, Ciência de Dados e Cybersecurity​** *(em andamento)*
 
 
 ## 🏆 Participações & Conquistas
@@ -40,7 +40,7 @@ Atuo como desenvolvedor Python com foco em **coleta de dados, automações e int
   <a href="https://www.linkedin.com/in/ljoannes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://drive.google.com/file/d/1-6Tox7txnxmAF9PhjD1Rv6IyhY4WQEQO/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1NBEVJlofxfKO5dXkbB_9Q0iTV4uS6N7c/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-555555?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Currículo"/>
   </a>
 </p>
