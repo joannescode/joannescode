@@ -40,7 +40,7 @@ Atuo como desenvolvedor Python com foco em **coleta de dados, automações e int
   <a href="https://www.linkedin.com/in/ljoannes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://drive.google.com/file/d/1NBEVJlofxfKO5dXkbB_9Q0iTV4uS6N7c/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1jkqHy6a-ZNLpn1loENGeMne0k8HPNou_/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-555555?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Currículo"/>
   </a>
 </p>
